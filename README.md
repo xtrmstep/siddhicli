@@ -1,2 +1,1 @@
-# siddhicli
-CLI tool to manage local and remote Siddhi applications
+Siddhi Cli to work with WSO worker instance (list, depoy, remove and other operations over applications)
